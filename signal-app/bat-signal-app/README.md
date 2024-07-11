@@ -1,5 +1,6 @@
 # bat-signal-app
 App to call for help with Batman theme.
 Made during DIO's React Native bootcamp.
-<img src="[https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg](https://github.com/user-attachments/assets/c8163db5-30e5-4e36-94b7-d05eb65095fd)" width="200" />
-![screen2](https://github.com/user-attachments/assets/5257adb0-2a34-4bbd-934d-bbba17b1651c)
+
+![screen1](https://github.com/user-attachments/assets/1ff373d3-f620-40d6-b8ee-75f693c72c7d)
+![screen2](https://github.com/user-attachments/assets/65f35f12-9275-4e86-b1eb-404e4466dbd6)
